@@ -54,6 +54,7 @@ h1{
 
 p{
     font-size: 20px;
+    margin-left: 30px;
 }
 
 #holi{
@@ -64,4 +65,8 @@ p{
 h4{
     font-family: 'Archivo Narrow', sans-serif;
     font-size: 40px;
+}
+
+#extra{
+    margin-top: 50px;
 }
