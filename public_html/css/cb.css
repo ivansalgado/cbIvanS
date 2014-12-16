@@ -1,0 +1,67 @@
+article{
+    padding-top: 50px;
+    color: white;
+    font-size: 120px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2{
+    color: white;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    padding-left: 20px; 
+}
+
+body{
+    background-color: #e0e0e0;
+}
+
+#carousel{
+    background-color: #B71C1C;
+}
+
+
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+h1{
+    padding: 5px;
+    margin-left: 15px;
+    color: black;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#sale{
+    color: #D50000;
+}
+
+#search{
+    padding-top: 50px;
+    padding-right: 25px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#holi{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 40px;
+}
